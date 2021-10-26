@@ -15,5 +15,7 @@ print(math.cos(math.pi))
 print(math.pow(2.5,5))
 
 # Question 5
+
+# Question 6
 print(math.pow(math.e,4))
 
