@@ -30,5 +30,5 @@ print(math.floor(7.25))
 print(2 * math.log(1000))
 
 # Question 10
-print(180 / 180 * math.pi)
+print(math.radians(180))
 
